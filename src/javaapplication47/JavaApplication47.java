@@ -16,6 +16,8 @@ public class JavaApplication47 {
      */
     public static void main(String[] args) {
         System.out.print("Hola mundo");
+        Scanner s =new Scanner(System.in);
+        
     }
     
 }
